@@ -32,6 +32,6 @@
 
 ### 💻 Проекты
 
-![Сайт СТО на Wordpress](https://trans-hub.ru/)<br>
-![Оптимизированный сайт с Webflow на Wordpress для сети отелей](https://www.kravtgroup.com/)<br>
-![Лендинг аудиокурса](https://language-efficiency.com/jane_stories/)
+[Сайт СТО на Wordpress](https://trans-hub.ru/)<br>
+[Оптимизированный сайт с Webflow на Wordpress для сети отелей](https://www.kravtgroup.com/)<br>
+[Лендинг аудиокурса](https://language-efficiency.com/jane_stories/)
