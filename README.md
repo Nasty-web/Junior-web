@@ -1,5 +1,6 @@
 #### Привет, я веб-мастер, интересуюсь фронтендом и бэкендом
-_
+
+hr
 
 <!--
 **Junior-web/Junior-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
