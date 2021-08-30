@@ -24,7 +24,6 @@
 📍 Figma <br>
 📍 Photoshop<br>
 📍 Illustrator<br>
-📍 Figma <br>
 📍 Яндекс Вебмастер <br>
 📍 Яндекс Метрика/Google Analytics
 
