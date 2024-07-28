@@ -47,16 +47,6 @@
 - дизайн и верстка кастомной темы
 - связь фротенд- и бэкенд-части<br><br>
 
-![Wordpress](https://img.shields.io/badge/-wordpress-blue) [Сайт СТО](https://trans-hub.ru/)
-- разработка прототипа и дизайна сайта в соответствии с пожеланиями заказчика
-- верстка кастомной темы
-- реализация админ-панели<br><br>
-
-![Wordpress](https://img.shields.io/badge/-wordpress-blue) [Оптимизированный сайт с Webflow на Wordpress для сети отелей](https://www.kravtgroup.com/)
-- перенос сайта с конструктора Webflow, путем создания кастомной темы
-- верстка отдельных элементов
-- настройка админ-панели<br><br>
-
 [Лендинг аудиокурса](https://language-efficiency.com/jane_stories/)
 - верстка по макету AI (bootstrap + html/css + js)<br><br>
 
